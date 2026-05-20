@@ -1,0 +1,1 @@
+# AMPL-Dashboard-Comparador-WST
